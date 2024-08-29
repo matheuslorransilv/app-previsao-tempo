@@ -34,7 +34,7 @@ document.querySelector("#search").addEventListener("submit", async (event) => {
     showAlert(`
             Não foi possível localizar...
 
-            <img src="./img/404-icon.svg"/>
+            
         `);
   }
 });
